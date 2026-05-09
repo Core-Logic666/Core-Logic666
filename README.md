@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 ```ts
-const jupri = {
+const Suclyn = {
   name        : "Suclyn Agus Tirta",
   education   : "Sistem Informasi — STMIK Kaputama Binjai (Semester 2)",
   location    : "📍 Binjai, Sumatera Utara, Indonesia",
