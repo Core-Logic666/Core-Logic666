@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/core-logic666">
-    <img src="https://komarev.com/ghpvc/?username=core-logic666&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views" />
+  <a href="https://github.com/Core-Logic666">
+    <img src="https://komarev.com/ghpvc/?username=Core-Logic666&label=Profile%20Views&color=7c3aed&style=flat-square" alt="profile views" />
   </a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-22c55e?style=flat-square&logo=statuspage&logoColor=white" />
   <img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Backend%20Dev-7c3aed?style=flat-square&logo=target&logoColor=white" />
@@ -16,7 +16,7 @@
 
 ```ts
 const Suclyn = {
-  name        : "Suclyn Agus Tirta",
+  name        : "Suclyn",
   education   : "Sistem Informasi — STMIK Kaputama Binjai (Semester 2)",
   location    : "📍 Binjai, Sumatera Utara, Indonesia",
   role        : "Aspiring Full-Stack Web Developer",
@@ -63,7 +63,7 @@ const Suclyn = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=core-logic666&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Core-Logic666&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa" alt="GitHub Streak" />
 </p>
 
 ---
@@ -80,7 +80,7 @@ const Suclyn = {
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/core-logic666">
+  <a href="https://github.com/Core-Logic666">
     <img src="https://img.shields.io/badge/GitHub-core--logic666-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Binjai%2C%20Sumatera%20Utara-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" />
