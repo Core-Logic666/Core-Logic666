@@ -57,9 +57,9 @@ const Suclyn = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=core-logic666&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=e2e8f0&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Core-Logic666&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=f472b6&text_color=e2e8f0&count_private=true" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=core-logic666&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=6" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Core-Logic666&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0&langs_count=6" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
