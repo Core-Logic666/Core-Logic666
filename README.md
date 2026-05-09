@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Jupri&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Suclyn&fontSize=70)
 ### 📊 GitHub Analytics
 
 <p align="left">
