@@ -93,5 +93,5 @@ const Suclyn = {
 </p>
 
 <p align="center">
-  <i>✨ "Kode yang baik bukan hanya yang berjalan — tapi yang bisa dibaca, dipahami, dan dikembangkan." ✨</i>
+  <i>miaw miaw miaw</i>
 </p>
