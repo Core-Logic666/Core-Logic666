@@ -22,11 +22,11 @@ const Suclyn = {
   role        : "Aspiring Full-Stack Web Developer",
   focus       : ["Frontend Development", "Backend Development"],
   learning    : ["React.js", "Supabase", "REST APIs", "Clean Code"],
-  philosophy  : "Setiap baris kode adalah langkah menuju versi terbaik diri sendiri.",
+  philosophy  : "be urself dawg",
 };
 ```
 
-> 🚀 Mahasiswa semester 2 yang bersemangat membangun fondasi yang kuat di dunia *web development*. Saya percaya bahwa konsistensi dan rasa ingin tahu adalah kunci tumbuh sebagai seorang developer.
+> Seekor Mahasiswa semester 2 yang bersemangat membangun fondasi yang kuat di dunia *web development*. Saya percaya bahwa konsistensi dan rasa ingin tahu adalah kunci tumbuh sebagai seorang developer keren.
 
 ---
 
@@ -68,7 +68,7 @@ const Suclyn = {
 
 ---
 
-## 🌱 Currently Learning & Building
+## Currently Learning & Building
 
 - ⚛️ Mendalami ekosistem **React.js** — hooks, state management, dan komponen yang reusable
 - 🗄️ Mengeksplorasi **Supabase** sebagai Backend-as-a-Service (BaaS) modern
